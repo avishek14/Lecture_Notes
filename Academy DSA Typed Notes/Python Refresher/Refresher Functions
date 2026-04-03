@@ -72,11 +72,11 @@ for i in range(0,4):
 ```
 
 ### Choices
-- [ ] a
+- [x] a
 aa
 aaa
 
-- [x] aaaa
+- [] aaaa
 aaaa
 aaaa
 aaaa
